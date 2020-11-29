@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T17:06:24.018Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" version="13.8.8" etag="RSTbqdUYYdO4VXnsvFkA" type="github"><diagram id="TjsWno8tY_Fznwirel-4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:09:48.978Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="67B7V9_4lGvFAhORQ7Fd" version="13.8.8" type="github">
+  <diagram id="TjsWno8tY_Fznwirel-4" name="Page-1">
+    <mxGraphModel dx="1129" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rY2AumYIhyUWJN7WI9md-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161.5" y="390" as="sourcePoint" />
+            <mxPoint x="161.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="10" y="224" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/rss_feed_cast_streaming-128.png" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/rss_feed_cast_streaming-128.png" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/rss_feed_cast_streaming-128.png" vertex="1" parent="1">
+          <mxGeometry x="194" y="300" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2AumYIhyUWJN7WI9md-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/rss_feed_cast_streaming-128.png" vertex="1" parent="1">
+          <mxGeometry x="194" y="450" width="38" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
